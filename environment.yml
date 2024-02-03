@@ -1,0 +1,9 @@
+name: coa
+dependencies:
+  - python=3.10
+  - mamba=1.5.6
+  - pandas=2.2.0
+  - pyarrow=15.0.0
+  - jupyterlab=4.0.12
+  - bibtexparser=1.4.1
+  - openpyxl=3.1.2
